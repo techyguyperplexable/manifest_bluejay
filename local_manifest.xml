@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+<!-- Pixel 8 Series Device Trees -->>
+   
+<!-- The Muppets Pixel Vendor Trees -->
+   <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="github" revision="lineage-22.2" />
+   
+<!-- AOSP Prebuilt Kernels -->
+   <project path="device/google/bluejay-kernels/6.1" remote="aosp-bluejay" name="device/google/bluejay-kernels/6.1" revision="refs/heads/android15-qpr2-release" />
+   
+<!-- Pixel 6 Series Device Trees -->   
+   <project name="austineyoung2000/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="fifteen-22.2"/>
+   <project name="austineyoung2000/android_device_google_gs101" path="device/google/gs101" remote="github" revision="fifteen-22.2"/>
+   <project name="austineyoung2000/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="fifteen"/>
+
+<!-- Pixel 7 Series Device Trees -->
+
+<!-- Extra trees -->
+   <project name="Jrcable1/packages_apps_PixelParts" path="packages_apps_PixelParts" remote="github" revision="vic"/>
+   <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" remote="gitlab" revision="15.0"/>
+</manifest>
