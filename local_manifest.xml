@@ -12,7 +12,7 @@
 <!-- Pixel 6 Series Device Trees -->   
    <project name="austineyoung2000/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="fifteen-22.2"/>
    <project name="austineyoung2000/android_device_google_gs101" path="device/google/gs101" remote="github" revision="fifteen-22.2"/>
-   <project name="austineyoung2000/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="fifteen"/>
+   <project name="techyguyperplexable/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="fifteen"/>
 
 <!-- Pixel 7 Series Device Trees -->
 
