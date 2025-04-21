@@ -4,7 +4,7 @@
 <!-- Pixel 8 Series Device Trees -->>
    
 <!-- Custom modified Pixel Vendor Trees -->
-   <project name="techyguyperplexable/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="github" revision="fiveteen-qpr2" />
+   <project name="techyguyperplexable/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="github" revision="fiftteen-qpr2" />
    
 <!-- AOSP Prebuilt Kernels -->
    <project path="device/google/bluejay-kernels/6.1" remote="aosp-bluejay" name="device/google/bluejay-kernels/6.1" revision="refs/heads/android15-qpr2-release" />
