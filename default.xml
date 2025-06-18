@@ -4,7 +4,7 @@
 <!-- Pixel 8 Series Device Trees -->>
    
 <!-- Custom modified Pixel Vendor Trees -->
-   <project name="RisingOS-Revived-devices/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="github" revision="fifteen-qpr2" />
+   <project name="techyguyperplexable/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="github" revision="fifteen-qpr2" />
    
 <!-- AOSP Prebuilt Kernels -->
    <project path="device/google/bluejay-kernels/6.1" remote="aosp-bluejay" name="device/google/bluejay-kernels/6.1" revision="refs/heads/android15-qpr2-release" />
@@ -12,7 +12,7 @@
 <!-- Pixel 6 Series Device Trees -->   
    <project name="austineyoung2000/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="fifteen-22.2"/>
    <project name="austineyoung2000/android_device_google_gs101" path="device/google/gs101" remote="github" revision="fifteen-22.2"/>
-   <project name="RisingOS-Revived-devices/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="fifteen"/>
+   <project name="techyguyperplexable/android_device_google_bluejay" path="device/google/bluejay" remote="github" revision="fifteen"/>
 
 <!-- Pixel 7 Series Device Trees -->
 
