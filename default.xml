@@ -18,5 +18,4 @@
 
 <!-- Extra trees -->
    <project name="Evolution-X-Devices/packages_apps_PixelParts" path="packages/apps/PixelParts" remote="github" revision="vic"/>
-   <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" remote="gitlab" revision="15.0"/>
 </manifest>
